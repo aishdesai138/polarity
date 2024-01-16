@@ -1,0 +1,51 @@
+{
+  "CRM": {
+    "OpenPipelineVehicles": {
+      "Numbers": 42,
+      "Values": "dummy_value",
+      "Dealer": "dummy_dealer",
+      "SalesRepresentative": "dummy_rep",
+      "ModelWise": "dummy_model",
+      "SalesForecasting": 1234
+    },
+    "Campaign": {
+      "Location": "dummy_location",
+      "Expenditure": 5678.90,
+      "SalesClosed": 25,
+      "SalesInPipeline": 50,
+      "UpcomingActivities": "dummy_activities",
+      "SocialMediaMonitoring": true
+    },
+    "Leads": {
+      "ByTerritory": "dummy_territory",
+      "BySource": "dummy_source",
+      "ByDealer": "dummy_dealer",
+      "InPipeline": 75,
+      "ReasonsNotClosing": "dummy_reasons",
+      "ForecastedLeads": 100,
+      "ContactManagement": true
+    },
+    "ReportingAndAnalysis": {
+      "LeadConversionRatio": 0.15,
+      "CostPerAcquisition": 350.25,
+      "ReturnOnInvestment": 0.05,
+      "CustomerLifetimeValue": 1200.50
+    },
+    "CRMAutoEmail": {
+      "ServiceReminder": "dummy_service",
+      "BirthdayWish": "dummy_birthday",
+      "OfferEmailer": "dummy_offer",
+      "AutoResponse": "dummy_auto"
+    },
+    "CRMAutoSMS": {
+      "ServiceReminder": "dummy_service",
+      "BirthdayWish": "dummy_birthday",
+      "OfferEmailer": "dummy_offer",
+      "AutoResponse": "dummy_auto"
+    },
+    "CustomerAnalysis": {
+      "CustomerSatisfaction": 4.5,
+      "CustomerRetention": 85.5
+    }
+  }
+}
