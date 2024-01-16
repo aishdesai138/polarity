@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "65a244f9e84da40701fd5394"
+  },
+  "Part list": [
+    "Part 1",
+    "Part 2",
+    "Part 3"
+  ],
+  "Balance amount": 1000,
+  "Auto-order": true,
+  "Ordering frequency": "Weekly",
+  "Created On": {
+    "$date": "2024-01-20T09:00:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-20T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a244f9e84da40701fd5395"
+  },
+  "Part list": [
+    "Part 4",
+    "Part 5",
+    "Part 6"
+  ],
+  "Balance amount": 1200,
+  "Auto-order": false,
+  "Ordering frequency": "Bi-Weekly",
+  "Created On": {
+    "$date": "2024-01-20T09:30:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-20T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a244f9e84da40701fd5396"
+  },
+  "Part list": [
+    "Part 7",
+    "Part 8",
+    "Part 9"
+  ],
+  "Balance amount": 1500,
+  "Auto-order": true,
+  "Ordering frequency": "Monthly",
+  "Created On": {
+    "$date": "2024-01-20T10:00:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-20T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a244f9e84da40701fd5397"
+  },
+  "Part list": [
+    "Part 10",
+    "Part 11",
+    "Part 12"
+  ],
+  "Balance amount": 1800,
+  "Auto-order": false,
+  "Ordering frequency": "Quarterly",
+  "Created On": {
+    "$date": "2024-01-20T10:30:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-20T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a244f9e84da40701fd5398"
+  },
+  "Part list": [
+    "Part 13",
+    "Part 14",
+    "Part 15"
+  ],
+  "Balance amount": 2000,
+  "Auto-order": true,
+  "Ordering frequency": "Yearly",
+  "Created On": {
+    "$date": "2024-01-20T11:00:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-20T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a244f9e84da40701fd5399"
+  },
+  "Part list": [
+    "Part 16",
+    "Part 17",
+    "Part 18"
+  ],
+  "Balance amount": 2200,
+  "Auto-order": false,
+  "Ordering frequency": "Monthly",
+  "Created On": {
+    "$date": "2024-01-20T11:30:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-20T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a244f9e84da40701fd539a"
+  },
+  "Part list": [
+    "Part 19",
+    "Part 20",
+    "Part 21"
+  ],
+  "Balance amount": 2400,
+  "Auto-order": true,
+  "Ordering frequency": "Weekly",
+  "Created On": {
+    "$date": "2024-01-20T12:00:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-20T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a244f9e84da40701fd539b"
+  },
+  "Part list": [
+    "Part 22",
+    "Part 23",
+    "Part 24"
+  ],
+  "Balance amount": 2600,
+  "Auto-order": false,
+  "Ordering frequency": "Bi-Weekly",
+  "Created On": {
+    "$date": "2024-01-20T12:30:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-20T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a244f9e84da40701fd539c"
+  },
+  "Part list": [
+    "Part 25",
+    "Part 26",
+    "Part 27"
+  ],
+  "Balance amount": 2800,
+  "Auto-order": true,
+  "Ordering frequency": "Quarterly",
+  "Created On": {
+    "$date": "2024-01-20T13:00:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-20T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a244f9e84da40701fd539d"
+  },
+  "Part list": [
+    "Part 28",
+    "Part 29",
+    "Part 30"
+  ],
+  "Balance amount": 3000,
+  "Auto-order": false,
+  "Ordering frequency": "Yearly",
+  "Created On": {
+    "$date": "2024-01-20T13:30:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-20T13:30:00.000Z"
+  }
+}]

@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "65a241e9e84da40701fd5380"
+  },
+  "Service number": "SRV001",
+  "BOM": "BOM001",
+  "Service charges": 100,
+  "Created On": {
+    "$date": "2024-01-18T09:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-18T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a241e9e84da40701fd5381"
+  },
+  "Service number": "SRV002",
+  "BOM": "BOM002",
+  "Service charges": 150,
+  "Created On": {
+    "$date": "2024-01-18T09:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-18T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a241e9e84da40701fd5382"
+  },
+  "Service number": "SRV003",
+  "BOM": "BOM003",
+  "Service charges": 200,
+  "Created On": {
+    "$date": "2024-01-18T10:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-18T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a241e9e84da40701fd5383"
+  },
+  "Service number": "SRV004",
+  "BOM": "BOM004",
+  "Service charges": 120,
+  "Created On": {
+    "$date": "2024-01-18T10:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-18T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a241e9e84da40701fd5384"
+  },
+  "Service number": "SRV005",
+  "BOM": "BOM005",
+  "Service charges": 180,
+  "Created On": {
+    "$date": "2024-01-18T11:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-18T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a241e9e84da40701fd5385"
+  },
+  "Service number": "SRV006",
+  "BOM": "BOM006",
+  "Service charges": 220,
+  "Created On": {
+    "$date": "2024-01-18T11:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-18T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a241e9e84da40701fd5386"
+  },
+  "Service number": "SRV007",
+  "BOM": "BOM007",
+  "Service charges": 130,
+  "Created On": {
+    "$date": "2024-01-18T12:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-18T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a241e9e84da40701fd5387"
+  },
+  "Service number": "SRV008",
+  "BOM": "BOM008",
+  "Service charges": 160,
+  "Created On": {
+    "$date": "2024-01-18T12:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-18T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a241e9e84da40701fd5388"
+  },
+  "Service number": "SRV009",
+  "BOM": "BOM009",
+  "Service charges": 240,
+  "Created On": {
+    "$date": "2024-01-18T13:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-18T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a241e9e84da40701fd5389"
+  },
+  "Service number": "SRV010",
+  "BOM": "BOM010",
+  "Service charges": 200,
+  "Created On": {
+    "$date": "2024-01-18T13:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-18T13:30:00.000Z"
+  }
+}]

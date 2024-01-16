@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "65a24334e84da40701fd538a"
+  },
+  "Location": "Center 1",
+  "Monthly billing": 5000,
+  "Billing calendar": "January",
+  "Service manager record": "Manager 1",
+  "Inventory": [
+    "Item 1",
+    "Item 2",
+    "Item 3"
+  ],
+  "Created On": {
+    "$date": "2024-01-19T09:00:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-19T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a24334e84da40701fd538b"
+  },
+  "Location": "Center 2",
+  "Monthly billing": 6000,
+  "Billing calendar": "February",
+  "Service manager record": "Manager 2",
+  "Inventory": [
+    "Item 4",
+    "Item 5",
+    "Item 6"
+  ],
+  "Created On": {
+    "$date": "2024-01-19T09:30:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-19T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a24334e84da40701fd538c"
+  },
+  "Location": "Center 3",
+  "Monthly billing": 7000,
+  "Billing calendar": "March",
+  "Service manager record": "Manager 3",
+  "Inventory": [
+    "Item 7",
+    "Item 8",
+    "Item 9"
+  ],
+  "Created On": {
+    "$date": "2024-01-19T10:00:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-19T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a24334e84da40701fd538d"
+  },
+  "Location": "Center 4",
+  "Monthly billing": 8000,
+  "Billing calendar": "April",
+  "Service manager record": "Manager 4",
+  "Inventory": [
+    "Item 10",
+    "Item 11",
+    "Item 12"
+  ],
+  "Created On": {
+    "$date": "2024-01-19T10:30:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-19T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a24334e84da40701fd538e"
+  },
+  "Location": "Center 5",
+  "Monthly billing": 9000,
+  "Billing calendar": "May",
+  "Service manager record": "Manager 5",
+  "Inventory": [
+    "Item 13",
+    "Item 14",
+    "Item 15"
+  ],
+  "Created On": {
+    "$date": "2024-01-19T11:00:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-19T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a24334e84da40701fd538f"
+  },
+  "Location": "Center 6",
+  "Monthly billing": 10000,
+  "Billing calendar": "June",
+  "Service manager record": "Manager 6",
+  "Inventory": [
+    "Item 16",
+    "Item 17",
+    "Item 18"
+  ],
+  "Created On": {
+    "$date": "2024-01-19T11:30:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-19T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a24334e84da40701fd5390"
+  },
+  "Location": "Center 7",
+  "Monthly billing": 11000,
+  "Billing calendar": "July",
+  "Service manager record": "Manager 7",
+  "Inventory": [
+    "Item 19",
+    "Item 20",
+    "Item 21"
+  ],
+  "Created On": {
+    "$date": "2024-01-19T12:00:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-19T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a24334e84da40701fd5391"
+  },
+  "Location": "Center 8",
+  "Monthly billing": 12000,
+  "Billing calendar": "August",
+  "Service manager record": "Manager 8",
+  "Inventory": [
+    "Item 22",
+    "Item 23",
+    "Item 24"
+  ],
+  "Created On": {
+    "$date": "2024-01-19T12:30:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-19T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a24334e84da40701fd5392"
+  },
+  "Location": "Center 9",
+  "Monthly billing": 13000,
+  "Billing calendar": "September",
+  "Service manager record": "Manager 9",
+  "Inventory": [
+    "Item 25",
+    "Item 26",
+    "Item 27"
+  ],
+  "Created On": {
+    "$date": "2024-01-19T13:00:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-19T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a24334e84da40701fd5393"
+  },
+  "Location": "Center 10",
+  "Monthly billing": 14000,
+  "Billing calendar": "October",
+  "Service manager record": "Manager 10",
+  "Inventory": [
+    "Item 28",
+    "Item 29",
+    "Item 30"
+  ],
+  "Created On": {
+    "$date": "2024-01-19T13:30:00.000Z"
+  },
+  "Modified On": {
+    "$date": "2024-01-19T13:30:00.000Z"
+  }
+}]

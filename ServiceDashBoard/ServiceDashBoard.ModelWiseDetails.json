@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "65a2479ce84da40701fd539e"
+  },
+  "S1K": "Model1",
+  "Part list": [
+    "Part A",
+    "Part B",
+    "Part C"
+  ],
+  "Repair cost": 500,
+  "Service interval": "Quarterly",
+  "Inventory": [
+    "Item 1",
+    "Item 2",
+    "Item 3"
+  ],
+  "Qty changed": [
+    2,
+    3,
+    1
+  ],
+  "Daily": true,
+  "Monthly": false,
+  "Yearly": true,
+  "Created Date": {
+    "$date": "2024-01-21T09:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-21T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2479ce84da40701fd539f"
+  },
+  "S1K": "Model2",
+  "Part list": [
+    "Part X",
+    "Part Y",
+    "Part Z"
+  ],
+  "Repair cost": 700,
+  "Service interval": "Monthly",
+  "Inventory": [
+    "Item 4",
+    "Item 5",
+    "Item 6"
+  ],
+  "Qty changed": [
+    1,
+    2,
+    1
+  ],
+  "Daily": false,
+  "Monthly": true,
+  "Yearly": false,
+  "Created Date": {
+    "$date": "2024-01-21T09:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-21T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2479ce84da40701fd53a0"
+  },
+  "S1K": "Model3",
+  "Part list": [
+    "Part M",
+    "Part N",
+    "Part O"
+  ],
+  "Repair cost": 600,
+  "Service interval": "Yearly",
+  "Inventory": [
+    "Item 7",
+    "Item 8",
+    "Item 9"
+  ],
+  "Qty changed": [
+    3,
+    1,
+    2
+  ],
+  "Daily": true,
+  "Monthly": false,
+  "Yearly": true,
+  "Created Date": {
+    "$date": "2024-01-21T10:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-21T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2479ce84da40701fd53a1"
+  },
+  "S1K": "Model4",
+  "Part list": [
+    "Part P",
+    "Part Q",
+    "Part R"
+  ],
+  "Repair cost": 800,
+  "Service interval": "Daily",
+  "Inventory": [
+    "Item 10",
+    "Item 11",
+    "Item 12"
+  ],
+  "Qty changed": [
+    2,
+    2,
+    2
+  ],
+  "Daily": true,
+  "Monthly": false,
+  "Yearly": false,
+  "Created Date": {
+    "$date": "2024-01-21T10:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-21T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2479ce84da40701fd53a2"
+  },
+  "S1K": "Model5",
+  "Part list": [
+    "Part G",
+    "Part H",
+    "Part I"
+  ],
+  "Repair cost": 900,
+  "Service interval": "Weekly",
+  "Inventory": [
+    "Item 13",
+    "Item 14",
+    "Item 15"
+  ],
+  "Qty changed": [
+    1,
+    3,
+    1
+  ],
+  "Daily": false,
+  "Monthly": true,
+  "Yearly": false,
+  "Created Date": {
+    "$date": "2024-01-21T11:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-21T11:00:00.000Z"
+  }
+}]

@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "65a24a6fe84da40701fd53b2"
+  },
+  "Insurance type": "Comprehensive",
+  "Claim history": [
+    "Claim 1",
+    "Claim 2"
+  ],
+  "No-claim bonus": true,
+  "Claim status": "Active",
+  "Created Date": {
+    "$date": "2024-01-23T11:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-23T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a24a6fe84da40701fd53b3"
+  },
+  "Insurance type": "Third Party",
+  "Claim history": [
+    "Claim 3",
+    "Claim 4"
+  ],
+  "No-claim bonus": false,
+  "Claim status": "Inactive",
+  "Created Date": {
+    "$date": "2024-01-23T12:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-23T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a24a6fe84da40701fd53b4"
+  },
+  "Insurance type": "Comprehensive",
+  "Claim history": [
+    "Claim 5",
+    "Claim 6"
+  ],
+  "No-claim bonus": true,
+  "Claim status": "Active",
+  "Created Date": {
+    "$date": "2024-01-23T12:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-23T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a24a6fe84da40701fd53b5"
+  },
+  "Insurance type": "Third Party",
+  "Claim history": [
+    "Claim 7",
+    "Claim 8"
+  ],
+  "No-claim bonus": false,
+  "Claim status": "Inactive",
+  "Created Date": {
+    "$date": "2024-01-23T13:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-23T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a24a6fe84da40701fd53b6"
+  },
+  "Insurance type": "Comprehensive",
+  "Claim history": [
+    "Claim 9",
+    "Claim 10"
+  ],
+  "No-claim bonus": true,
+  "Claim status": "Active",
+  "Created Date": {
+    "$date": "2024-01-23T13:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-23T13:30:00.000Z"
+  }
+}]

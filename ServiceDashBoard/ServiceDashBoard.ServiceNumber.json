@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "65a240e5e84da40701fd5376"
+  },
+  "Customer Name": "John Doe",
+  "Vehicle Registration No.": "ABC123",
+  "Chassis No.": "123456789",
+  "Warranty details": "1 year",
+  "Insurance details": "Comprehensive",
+  "Created Date": {
+    "$date": "2024-01-17T09:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-17T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a240e5e84da40701fd5377"
+  },
+  "Customer Name": "Jane Doe",
+  "Vehicle Registration No.": "XYZ789",
+  "Chassis No.": "987654321",
+  "Warranty details": "2 years",
+  "Insurance details": "Third Party",
+  "Created Date": {
+    "$date": "2024-01-17T09:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-17T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a240e5e84da40701fd5378"
+  },
+  "Customer Name": "Bob Smith",
+  "Vehicle Registration No.": "PQR456",
+  "Chassis No.": "654321987",
+  "Warranty details": "3 years",
+  "Insurance details": "Comprehensive",
+  "Created Date": {
+    "$date": "2024-01-17T10:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-17T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a240e5e84da40701fd5379"
+  },
+  "Customer Name": "Alice Johnson",
+  "Vehicle Registration No.": "LMN789",
+  "Chassis No.": "789456123",
+  "Warranty details": "1 year",
+  "Insurance details": "Third Party",
+  "Created Date": {
+    "$date": "2024-01-17T10:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-17T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a240e5e84da40701fd537a"
+  },
+  "Customer Name": "Sam Wilson",
+  "Vehicle Registration No.": "DEF321",
+  "Chassis No.": "456123789",
+  "Warranty details": "2 years",
+  "Insurance details": "Comprehensive",
+  "Created Date": {
+    "$date": "2024-01-17T11:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-17T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a240e5e84da40701fd537b"
+  },
+  "Customer Name": "Emily White",
+  "Vehicle Registration No.": "GHI987",
+  "Chassis No.": "321789456",
+  "Warranty details": "3 years",
+  "Insurance details": "Third Party",
+  "Created Date": {
+    "$date": "2024-01-17T11:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-17T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a240e5e84da40701fd537c"
+  },
+  "Customer Name": "Chris Davis",
+  "Vehicle Registration No.": "JKL654",
+  "Chassis No.": "159357246",
+  "Warranty details": "1 year",
+  "Insurance details": "Comprehensive",
+  "Created Date": {
+    "$date": "2024-01-17T12:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-17T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a240e5e84da40701fd537d"
+  },
+  "Customer Name": "Eva Brown",
+  "Vehicle Registration No.": "MNO987",
+  "Chassis No.": "753951824",
+  "Warranty details": "2 years",
+  "Insurance details": "Third Party",
+  "Created Date": {
+    "$date": "2024-01-17T12:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-17T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a240e5e84da40701fd537e"
+  },
+  "Customer Name": "Mike Turner",
+  "Vehicle Registration No.": "UVW456",
+  "Chassis No.": "369258147",
+  "Warranty details": "3 years",
+  "Insurance details": "Comprehensive",
+  "Created Date": {
+    "$date": "2024-01-17T13:00:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-17T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a240e5e84da40701fd537f"
+  },
+  "Customer Name": "Sophie Clark",
+  "Vehicle Registration No.": "XYZ123",
+  "Chassis No.": "147852369",
+  "Warranty details": "1 year",
+  "Insurance details": "Third Party",
+  "Created Date": {
+    "$date": "2024-01-17T13:30:00.000Z"
+  },
+  "Modified Date": {
+    "$date": "2024-01-17T13:30:00.000Z"
+  }
+}]
