@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "65a2ac99e84da40701fd541a"
+  },
+  "List of accessories": "Premium Car Mats",
+  "Sales": 1200,
+  "Inventory": 300,
+  "Financials": {
+    "Revenue": 120000,
+    "Cost": 60000,
+    "Profit": 60000
+  },
+  "CreatedDate": {
+    "$date": "2024-02-01T09:00:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-02-01T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2ac99e84da40701fd541b"
+  },
+  "List of accessories": "Roof Rack",
+  "Sales": 800,
+  "Inventory": 150,
+  "Financials": {
+    "Revenue": 64000,
+    "Cost": 32000,
+    "Profit": 32000
+  },
+  "CreatedDate": {
+    "$date": "2024-02-01T09:30:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-02-01T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2ac99e84da40701fd541c"
+  },
+  "List of accessories": "Car Cover",
+  "Sales": 1000,
+  "Inventory": 200,
+  "Financials": {
+    "Revenue": 100000,
+    "Cost": 50000,
+    "Profit": 50000
+  },
+  "CreatedDate": {
+    "$date": "2024-02-01T10:00:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-02-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2ac99e84da40701fd541d"
+  },
+  "List of accessories": "Bluetooth Car Kit",
+  "Sales": 500,
+  "Inventory": 100,
+  "Financials": {
+    "Revenue": 50000,
+    "Cost": 25000,
+    "Profit": 25000
+  },
+  "CreatedDate": {
+    "$date": "2024-02-01T10:30:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-02-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2ac99e84da40701fd541e"
+  },
+  "List of accessories": "Seat Covers",
+  "Sales": 1500,
+  "Inventory": 400,
+  "Financials": {
+    "Revenue": 150000,
+    "Cost": 75000,
+    "Profit": 75000
+  },
+  "CreatedDate": {
+    "$date": "2024-02-01T11:00:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-02-01T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2ac99e84da40701fd541f"
+  },
+  "List of accessories": "GPS Navigation System",
+  "Sales": 2000,
+  "Inventory": 300,
+  "Financials": {
+    "Revenue": 200000,
+    "Cost": 100000,
+    "Profit": 100000
+  },
+  "CreatedDate": {
+    "$date": "2024-02-01T11:30:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-02-01T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2ac99e84da40701fd5420"
+  },
+  "List of accessories": "Alloy Wheels",
+  "Sales": 1800,
+  "Inventory": 350,
+  "Financials": {
+    "Revenue": 180000,
+    "Cost": 90000,
+    "Profit": 90000
+  },
+  "CreatedDate": {
+    "$date": "2024-02-01T12:00:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-02-01T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2ac99e84da40701fd5421"
+  },
+  "List of accessories": "Car Air Freshener",
+  "Sales": 600,
+  "Inventory": 120,
+  "Financials": {
+    "Revenue": 60000,
+    "Cost": 30000,
+    "Profit": 30000
+  },
+  "CreatedDate": {
+    "$date": "2024-02-01T12:30:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-02-01T12:30:00.000Z"
+  }
+}]

@@ -1,0 +1,61 @@
+{
+  "Total number of vehicles manufactured": {
+    "Day wise": {
+      "January 1, 2023": 100
+    },
+    "Month wise": {
+      "January 2023": 250
+    },
+    "Year wise": {
+      "2023": 250
+    }
+  },
+  "Total number of vehicles cleared for dispatch": {
+    "Day wise": {
+      "January 1, 2023": 80
+    },
+    "Month wise": {
+      "January 2023": 200
+    },
+    "Year wise": {
+      "2023": 200
+    }
+  },
+  "Total number of vehicles in rectification": {
+    "Rectification details": "Repair",
+    "Day wise": {
+      "January 1, 2023": 50
+    },
+    "Month wise": {
+      "January 2023": 50
+    },
+    "Year wise": {
+      "2023": 250
+    }
+  },
+  "Total number of vehicles dispatched": {
+    "Day wise": {
+      "July 2, 2023": 110
+    },
+    "Month wise": {
+      "July 2023": 190
+    },
+    "Year wise": {
+      "2023": 190
+    }
+  },
+  "Total number of vehicles rectified and cleared for dispatch": {
+    "Day wise": {
+      "August 1, 2023": 60
+    },
+    "Rectification date": "August 4, 2023",
+    "Cleared date": "August 6, 2023",
+    "No of days": 2,
+    "Month wise": {
+      "August 2023": 160
+    },
+    "Year wise": {
+      "2023": 160
+    }
+  }
+}

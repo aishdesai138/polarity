@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "65a2a9ffe84da40701fd5402"
+  },
+  "S1K": 50,
+  "S2K": 30,
+  "S3K": 20,
+  "E1K": 40,
+  "E2K": 25,
+  "E3K": 15,
+  "Re-order": true,
+  "Payment": "Credit Card",
+  "Statistics": "In Stock",
+  "CreatedOn": {
+    "$date": "2024-01-28T09:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-28T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a9ffe84da40701fd5403"
+  },
+  "S1K": 40,
+  "S2K": 25,
+  "S3K": 15,
+  "E1K": 30,
+  "E2K": 20,
+  "E3K": 10,
+  "Re-order": false,
+  "Payment": "Cash",
+  "Statistics": "Low Stock",
+  "CreatedOn": {
+    "$date": "2024-01-28T09:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-28T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a9ffe84da40701fd5404"
+  },
+  "S1K": 45,
+  "S2K": 28,
+  "S3K": 18,
+  "E1K": 35,
+  "E2K": 22,
+  "E3K": 12,
+  "Re-order": true,
+  "Payment": "Debit Card",
+  "Statistics": "In Stock",
+  "CreatedOn": {
+    "$date": "2024-01-28T10:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-28T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a9ffe84da40701fd5405"
+  },
+  "S1K": 55,
+  "S2K": 32,
+  "S3K": 22,
+  "E1K": 38,
+  "E2K": 24,
+  "E3K": 14,
+  "Re-order": true,
+  "Payment": "Net Banking",
+  "Statistics": "In Stock",
+  "CreatedOn": {
+    "$date": "2024-01-28T10:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-28T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a9ffe84da40701fd5406"
+  },
+  "S1K": 48,
+  "S2K": 29,
+  "S3K": 19,
+  "E1K": 33,
+  "E2K": 21,
+  "E3K": 11,
+  "Re-order": false,
+  "Payment": "Credit Card",
+  "Statistics": "Low Stock",
+  "CreatedOn": {
+    "$date": "2024-01-28T11:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-28T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a9ffe84da40701fd5407"
+  },
+  "S1K": 42,
+  "S2K": 27,
+  "S3K": 17,
+  "E1K": 37,
+  "E2K": 23,
+  "E3K": 13,
+  "Re-order": true,
+  "Payment": "Cash",
+  "Statistics": "In Stock",
+  "CreatedOn": {
+    "$date": "2024-01-28T11:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-28T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a9ffe84da40701fd5408"
+  },
+  "S1K": 47,
+  "S2K": 31,
+  "S3K": 21,
+  "E1K": 41,
+  "E2K": 26,
+  "E3K": 16,
+  "Re-order": false,
+  "Payment": "Debit Card",
+  "Statistics": "Low Stock",
+  "CreatedOn": {
+    "$date": "2024-01-28T12:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-28T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a9ffe84da40701fd5409"
+  },
+  "S1K": 52,
+  "S2K": 34,
+  "S3K": 24,
+  "E1K": 36,
+  "E2K": 19,
+  "E3K": 9,
+  "Re-order": true,
+  "Payment": "Net Banking",
+  "Statistics": "In Stock",
+  "CreatedOn": {
+    "$date": "2024-01-28T12:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-28T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a9ffe84da40701fd540a"
+  },
+  "S1K": 49,
+  "S2K": 33,
+  "S3K": 23,
+  "E1K": 39,
+  "E2K": 28,
+  "E3K": 18,
+  "Re-order": true,
+  "Payment": "Credit Card",
+  "Statistics": "In Stock",
+  "CreatedOn": {
+    "$date": "2024-01-28T13:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-28T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a9ffe84da40701fd540b"
+  },
+  "S1K": 43,
+  "S2K": 26,
+  "S3K": 16,
+  "E1K": 34,
+  "E2K": 17,
+  "E3K": 7,
+  "Re-order": false,
+  "Payment": "Cash",
+  "Statistics": "Low Stock",
+  "CreatedOn": {
+    "$date": "2024-01-28T13:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-28T13:30:00.000Z"
+  }
+}]

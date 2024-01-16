@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "65a2a768e84da40701fd53fd"
+  },
+  "E3K": "ABC Motors, Los Angeles",
+  "Monthly sales": 500000,
+  "Daily sales": 20000,
+  "Leads": 100,
+  "Conversion": 0.2,
+  "Target": 2500000,
+  "CreatedDate": {
+    "$date": "2024-01-27T09:00:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-27T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a768e84da40701fd53fe"
+  },
+  "E3K": "XYZ Motors, New York City",
+  "Monthly sales": 700000,
+  "Daily sales": 25000,
+  "Leads": 120,
+  "Conversion": 0.18,
+  "Target": 3000000,
+  "CreatedDate": {
+    "$date": "2024-01-27T09:30:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-27T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a768e84da40701fd53ff"
+  },
+  "E3K": "T Motors, Houston",
+  "Monthly sales": 600000,
+  "Daily sales": 22000,
+  "Leads": 90,
+  "Conversion": 0.25,
+  "Target": 2800000,
+  "CreatedDate": {
+    "$date": "2024-01-27T09:30:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-27T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a768e84da40701fd5400"
+  },
+  "E3K": "Mahi Motors, New York City",
+  "Monthly sales": 900000,
+  "Daily sales": 25000,
+  "Leads": 120,
+  "Conversion": 0.18,
+  "Target": 3000000,
+  "CreatedDate": {
+    "$date": "2024-01-27T09:30:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-27T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a768e84da40701fd5401"
+  },
+  "E3K": "BEST Motors, Houston",
+  "Monthly sales": 800000,
+  "Daily sales": 22000,
+  "Leads": 90,
+  "Conversion": 0.25,
+  "Target": 2800000,
+  "CreatedDate": {
+    "$date": "2024-01-27T09:30:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-27T09:30:00.000Z"
+  }
+}]

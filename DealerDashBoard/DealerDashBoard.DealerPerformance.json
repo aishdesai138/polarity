@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "65a2a02ae84da40701fd53c1"
+  },
+  "Dealer details": "ABC Motors, Los Angeles",
+  "Monthly sales": 500000,
+  "Daily sales": 20000,
+  "S1K": 100,
+  "S2K": 80,
+  "S3K": 50,
+  "E1K": 120,
+  "E2K": 90,
+  "E3K": 60,
+  "CreatedOn": {
+    "$date": "2024-01-26T09:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-26T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a02ae84da40701fd53c2"
+  },
+  "Dealer details": "XYZ Motors, New York City",
+  "Monthly sales": 700000,
+  "Daily sales": 25000,
+  "S1K": 120,
+  "S2K": 100,
+  "S3K": 70,
+  "E1K": 150,
+  "E2K": 110,
+  "E3K": 80,
+  "CreatedOn": {
+    "$date": "2024-01-26T09:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-26T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a02ae84da40701fd53c3"
+  },
+  "Dealer details": "123 Motors, Houston",
+  "Monthly sales": 600000,
+  "Daily sales": 22000,
+  "S1K": 90,
+  "S2K": 70,
+  "S3K": 40,
+  "E1K": 100,
+  "E2K": 80,
+  "E3K": 50,
+  "CreatedOn": {
+    "$date": "2024-01-26T10:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-26T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a02ae84da40701fd53c4"
+  },
+  "Dealer details": "Sunshine Motors, Miami",
+  "Monthly sales": 800000,
+  "Daily sales": 30000,
+  "S1K": 150,
+  "S2K": 120,
+  "S3K": 90,
+  "E1K": 180,
+  "E2K": 150,
+  "E3K": 120,
+  "CreatedOn": {
+    "$date": "2024-01-26T10:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-26T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a02ae84da40701fd53c5"
+  },
+  "Dealer details": "Desert Motors, Phoenix",
+  "Monthly sales": 900000,
+  "Daily sales": 35000,
+  "S1K": 180,
+  "S2K": 150,
+  "S3K": 120,
+  "E1K": 200,
+  "E2K": 180,
+  "E3K": 150,
+  "CreatedOn": {
+    "$date": "2024-01-26T11:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-26T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a02ae84da40701fd53c6"
+  },
+  "Dealer details": "Golden Gate Motors, San Francisco",
+  "Monthly sales": 600000,
+  "Daily sales": 22000,
+  "S1K": 90,
+  "S2K": 70,
+  "S3K": 40,
+  "E1K": 100,
+  "E2K": 80,
+  "E3K": 50,
+  "CreatedOn": {
+    "$date": "2024-01-26T11:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-26T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a02ae84da40701fd53c7"
+  },
+  "Dealer details": "Big D Motors, Dallas",
+  "Monthly sales": 750000,
+  "Daily sales": 28000,
+  "S1K": 120,
+  "S2K": 100,
+  "S3K": 70,
+  "E1K": 150,
+  "E2K": 110,
+  "E3K": 80,
+  "CreatedOn": {
+    "$date": "2024-01-26T12:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-26T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a02ae84da40701fd53c8"
+  },
+  "Dealer details": "Magic Motors, Orlando",
+  "Monthly sales": 850000,
+  "Daily sales": 32000,
+  "S1K": 150,
+  "S2K": 120,
+  "S3K": 90,
+  "E1K": 180,
+  "E2K": 150,
+  "E3K": 120,
+  "CreatedOn": {
+    "$date": "2024-01-26T12:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-26T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a02ae84da40701fd53c9"
+  },
+  "Dealer details": "Empire Motors, Albany",
+  "Monthly sales": 700000,
+  "Daily sales": 25000,
+  "S1K": 120,
+  "S2K": 100,
+  "S3K": 70,
+  "E1K": 150,
+  "E2K": 110,
+  "E3K": 80,
+  "CreatedOn": {
+    "$date": "2024-01-26T13:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-26T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2a02ae84da40701fd53ca"
+  },
+  "Dealer details": "Pacific Motors, San Diego",
+  "Monthly sales": 950000,
+  "Daily sales": 38000,
+  "S1K": 200,
+  "S2K": 180,
+  "S3K": 150,
+  "E1K": 220,
+  "E2K": 200,
+  "E3K": 180,
+  "CreatedOn": {
+    "$date": "2024-01-26T13:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-26T13:30:00.000Z"
+  }
+}]

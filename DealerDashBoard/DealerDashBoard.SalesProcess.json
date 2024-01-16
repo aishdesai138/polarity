@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "65a2abe3e84da40701fd5413"
+  },
+  "Sale projection": 1800000,
+  "Vehicle order": 120,
+  "Enquiries Received": 80,
+  "Customers contacted": 60,
+  "Order status": "In Progress",
+  "Delivery date": {
+    "$date": "2024-02-01T00:00:00.000Z"
+  },
+  "Financials": {
+    "S1K": 60000,
+    "S2K": 35000,
+    "S3K": 24000,
+    "E1K": 47000,
+    "E2K": 30000,
+    "E3K": 19000
+  },
+  "CreatedOn": {
+    "$date": "2024-01-30T09:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-30T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2abe3e84da40701fd5414"
+  },
+  "Sale projection": 2000000,
+  "Vehicle order": 150,
+  "Enquiries Received": 100,
+  "Customers contacted": 80,
+  "Order status": "Pending",
+  "Delivery date": {
+    "$date": "2024-02-05T00:00:00.000Z"
+  },
+  "Financials": {
+    "S1K": 70000,
+    "S2K": 40000,
+    "S3K": 28000,
+    "E1K": 55000,
+    "E2K": 35000,
+    "E3K": 23000
+  },
+  "CreatedOn": {
+    "$date": "2024-01-30T09:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-30T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2abf5e84da40701fd5415"
+  },
+  "Sale projection": 2200000,
+  "Vehicle order": 180,
+  "Enquiries Received": 120,
+  "Customers contacted": 90,
+  "Order status": "Completed",
+  "Delivery date": {
+    "$date": "2024-02-10T00:00:00.000Z"
+  },
+  "Financials": {
+    "S1K": 80000,
+    "S2K": 45000,
+    "S3K": 30000,
+    "E1K": 60000,
+    "E2K": 38000,
+    "E3K": 25000
+  },
+  "CreatedOn": {
+    "$date": "2024-01-30T10:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-30T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2abf5e84da40701fd5416"
+  },
+  "Sale projection": 1900000,
+  "Vehicle order": 140,
+  "Enquiries Received": 95,
+  "Customers contacted": 70,
+  "Order status": "In Progress",
+  "Delivery date": {
+    "$date": "2024-02-15T00:00:00.000Z"
+  },
+  "Financials": {
+    "S1K": 65000,
+    "S2K": 38000,
+    "S3K": 26000,
+    "E1K": 50000,
+    "E2K": 33000,
+    "E3K": 21000
+  },
+  "CreatedOn": {
+    "$date": "2024-01-30T10:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-30T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2abf5e84da40701fd5417"
+  },
+  "Sale projection": 2400000,
+  "Vehicle order": 200,
+  "Enquiries Received": 150,
+  "Customers contacted": 110,
+  "Order status": "Pending",
+  "Delivery date": {
+    "$date": "2024-02-20T00:00:00.000Z"
+  },
+  "Financials": {
+    "S1K": 90000,
+    "S2K": 50000,
+    "S3K": 34000,
+    "E1K": 70000,
+    "E2K": 45000,
+    "E3K": 30000
+  },
+  "CreatedOn": {
+    "$date": "2024-01-30T11:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-30T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2abf5e84da40701fd5418"
+  },
+  "Sale projection": 2600000,
+  "Vehicle order": 220,
+  "Enquiries Received": 180,
+  "Customers contacted": 130,
+  "Order status": "Completed",
+  "Delivery date": {
+    "$date": "2024-02-25T00:00:00.000Z"
+  },
+  "Financials": {
+    "S1K": 95000,
+    "S2K": 55000,
+    "S3K": 38000,
+    "E1K": 75000,
+    "E2K": 50000,
+    "E3K": 35000
+  },
+  "CreatedOn": {
+    "$date": "2024-01-30T11:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-30T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2abf5e84da40701fd5419"
+  },
+  "Sale projection": 2000000,
+  "Vehicle order": 160,
+  "Enquiries Received": 110,
+  "Customers contacted": 80,
+  "Order status": "In Progress",
+  "Delivery date": {
+    "$date": "2024-03-01T00:00:00.000Z"
+  },
+  "Financials": {
+    "S1K": 75000,
+    "S2K": 43000,
+    "S3K": 29000,
+    "E1K": 60000,
+    "E2K": 38000,
+    "E3K": 25000
+  },
+  "CreatedOn": {
+    "$date": "2024-01-30T12:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-30T12:00:00.000Z"
+  }
+}]

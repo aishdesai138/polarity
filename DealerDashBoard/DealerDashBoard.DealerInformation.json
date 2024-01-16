@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "65a29e96e84da40701fd53b7"
+  },
+  "First Name": "John",
+  "Last Name": "Doe",
+  "Mail": "john.doe@example.com",
+  "Phone": "123-456-7890",
+  "State": "California",
+  "City": "Los Angeles",
+  "Dealership Name": "ABC Motors",
+  "Dealer MD contact info": "MD John Doe - john.doe.md@example.com",
+  "Dealership type": "Authorized",
+  "CreatedOn": {
+    "$date": "2024-01-24T09:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-24T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a29e96e84da40701fd53b8"
+  },
+  "First Name": "Jane",
+  "Last Name": "Smith",
+  "Mail": "jane.smith@example.com",
+  "Phone": "987-654-3210",
+  "State": "New York",
+  "City": "New York City",
+  "Dealership Name": "XYZ Motors",
+  "Dealer MD contact info": "MD Jane Smith - jane.smith.md@example.com",
+  "Dealership type": "Authorized",
+  "CreatedOn": {
+    "$date": "2024-01-24T09:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-24T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a29e96e84da40701fd53b9"
+  },
+  "First Name": "Robert",
+  "Last Name": "Johnson",
+  "Mail": "robert.johnson@example.com",
+  "Phone": "555-123-4567",
+  "State": "Texas",
+  "City": "Houston",
+  "Dealership Name": "123 Motors",
+  "Dealer MD contact info": "MD Robert Johnson - robert.johnson.md@example.com",
+  "Dealership type": "Independent",
+  "CreatedOn": {
+    "$date": "2024-01-24T10:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-24T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a29e96e84da40701fd53ba"
+  },
+  "First Name": "Alice",
+  "Last Name": "Williams",
+  "Mail": "alice.williams@example.com",
+  "Phone": "111-222-3333",
+  "State": "Florida",
+  "City": "Miami",
+  "Dealership Name": "Sunshine Motors",
+  "Dealer MD contact info": "MD Alice Williams - alice.williams.md@example.com",
+  "Dealership type": "Authorized",
+  "CreatedOn": {
+    "$date": "2024-01-24T10:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-24T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a29e96e84da40701fd53bb"
+  },
+  "First Name": "David",
+  "Last Name": "Anderson",
+  "Mail": "david.anderson@example.com",
+  "Phone": "777-888-9999",
+  "State": "Arizona",
+  "City": "Phoenix",
+  "Dealership Name": "Desert Motors",
+  "Dealer MD contact info": "MD David Anderson - david.anderson.md@example.com",
+  "Dealership type": "Independent",
+  "CreatedOn": {
+    "$date": "2024-01-24T11:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-24T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a29ee1e84da40701fd53bc"
+  },
+  "First Name": "Eva",
+  "Last Name": "Martinez",
+  "Mail": "eva.martinez@example.com",
+  "Phone": "333-444-5555",
+  "State": "California",
+  "City": "San Francisco",
+  "Dealership Name": "Golden Gate Motors",
+  "Dealer MD contact info": "MD Eva Martinez - eva.martinez.md@example.com",
+  "Dealership type": "Authorized",
+  "CreatedOn": {
+    "$date": "2024-01-25T09:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-25T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a29ee1e84da40701fd53bd"
+  },
+  "First Name": "Carlos",
+  "Last Name": "Lopez",
+  "Mail": "carlos.lopez@example.com",
+  "Phone": "777-999-1111",
+  "State": "Texas",
+  "City": "Dallas",
+  "Dealership Name": "Big D Motors",
+  "Dealer MD contact info": "MD Carlos Lopez - carlos.lopez.md@example.com",
+  "Dealership type": "Independent",
+  "CreatedOn": {
+    "$date": "2024-01-25T09:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-25T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a29ee1e84da40701fd53be"
+  },
+  "First Name": "Sophia",
+  "Last Name": "Brown",
+  "Mail": "sophia.brown@example.com",
+  "Phone": "888-222-3333",
+  "State": "Florida",
+  "City": "Orlando",
+  "Dealership Name": "Magic Motors",
+  "Dealer MD contact info": "MD Sophia Brown - sophia.brown.md@example.com",
+  "Dealership type": "Authorized",
+  "CreatedOn": {
+    "$date": "2024-01-25T10:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-25T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a29ee1e84da40701fd53bf"
+  },
+  "First Name": "James",
+  "Last Name": "Clark",
+  "Mail": "james.clark@example.com",
+  "Phone": "555-666-7777",
+  "State": "New York",
+  "City": "Albany",
+  "Dealership Name": "Empire Motors",
+  "Dealer MD contact info": "MD James Clark - james.clark.md@example.com",
+  "Dealership type": "Authorized",
+  "CreatedOn": {
+    "$date": "2024-01-25T10:30:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-25T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a29ee1e84da40701fd53c0"
+  },
+  "First Name": "Olivia",
+  "Last Name": "Taylor",
+  "Mail": "olivia.taylor@example.com",
+  "Phone": "111-222-3333",
+  "State": "California",
+  "City": "San Diego",
+  "Dealership Name": "Pacific Motors",
+  "Dealer MD contact info": "MD Olivia Taylor - olivia.taylor.md@example.com",
+  "Dealership type": "Independent",
+  "CreatedOn": {
+    "$date": "2024-01-25T11:00:00.000Z"
+  },
+  "ModifiedOn": {
+    "$date": "2024-01-25T11:00:00.000Z"
+  }
+}]

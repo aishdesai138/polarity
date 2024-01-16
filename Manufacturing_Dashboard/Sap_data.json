@@ -1,0 +1,26 @@
+{
+  "SAP": {
+    "S4_HANA_BASIC_MODULE_FOR_POLARITY": {
+      "SAP_IMPLEMENTATION": {
+        "Business_Priority": {
+          "Analytics": { "Percentage_in_scope": 0, "Items_in_scope": 0, "Items_available": 14 },
+          "App_Platform_and_Infrastructure": { "Percentage_in_scope": 33, "Items_in_scope": 2, "Items_available": 6 },
+          "Asset_Management": { "Percentage_in_scope": 86, "Items_in_scope": 6, "Items_available": 7 },
+          "Database_and_Data_Management": { "Percentage_in_scope": 16, "Items_in_scope": 6, "Items_available": 37 },
+          "Finance": { "Percentage_in_scope": 21, "Items_in_scope": 43, "Items_available": 207 },
+          "Human_Resources": { "Percentage_in_scope": 0, "Items_in_scope": 0, "Items_available": 12 },
+          "IT_Management": { "Percentage_in_scope": 20, "Items_in_scope": 1, "Items_available": 5 },
+          "Intelligent_RPA_Cases": { "Percentage_in_scope": 0, "Items_in_scope": 0, "Items_available": 88 },
+          "Manufacturing": { "Percentage_in_scope": 33, "Items_in_scope": 25, "Items_available": 76 },
+          "R&D_Engineering": { "Percentage_in_scope": 7, "Items_in_scope": 2, "Items_available": 29 },
+          "SAP_BTP_Use_Cases": { "Percentage_in_scope": 0, "Items_in_scope": 0, "Items_available": 45 },
+          "Sales": { "Percentage_in_scope": 35, "Items_in_scope": 25, "Items_available": 71 },
+          "Service": { "Percentage_in_scope": 69, "Items_in_scope": 9, "Items_available": 13 },
+          "Solution_for_Specific_Industries": { "Percentage_in_scope": 0, "Items_in_scope": 0, "Items_available": 15 },
+          "Sourcing_and_Procurement": { "Percentage_in_scope": 43, "Items_in_scope": 32, "Items_available": 75 },
+          "Supply_Chain": { "Percentage_in_scope": 32, "Items_in_scope": 24, "Items_available": 75 }
+        }
+      }
+    }
+  }
+}

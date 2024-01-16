@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "65a2ab0ee84da40701fd540c"
+  },
+  "Sales manager 1": "John Doe",
+  "Sales manager 2": "Jane Smith",
+  "Sales manager 3": "Bob Johnson",
+  "Sales projections": 1500000,
+  "Incentive": 10000,
+  "S1K": 50000,
+  "S2K": 30000,
+  "S3K": 20000,
+  "E1K": 40000,
+  "E2K": 25000,
+  "E3K": 15000,
+  "CreatedDate": {
+    "$date": "2024-01-29T09:00:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-29T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2ab0ee84da40701fd540d"
+  },
+  "Sales manager 1": "Alice Johnson",
+  "Sales manager 2": "Tom Davis",
+  "Sales manager 3": "Eva White",
+  "Sales projections": 1800000,
+  "Incentive": 12000,
+  "S1K": 55000,
+  "S2K": 32000,
+  "S3K": 22000,
+  "E1K": 43000,
+  "E2K": 27000,
+  "E3K": 17000,
+  "CreatedDate": {
+    "$date": "2024-01-29T09:30:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-29T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2ab2de84da40701fd540e"
+  },
+  "Sales manager 1": "Chris Miller",
+  "Sales manager 2": "Emily Brown",
+  "Sales manager 3": "David Wilson",
+  "Sales projections": 2000000,
+  "Incentive": 15000,
+  "S1K": 60000,
+  "S2K": 35000,
+  "S3K": 24000,
+  "E1K": 47000,
+  "E2K": 30000,
+  "E3K": 19000,
+  "CreatedDate": {
+    "$date": "2024-01-29T10:00:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-29T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2ab2de84da40701fd540f"
+  },
+  "Sales manager 1": "Grace Taylor",
+  "Sales manager 2": "Mike Anderson",
+  "Sales manager 3": "Sophia Hernandez",
+  "Sales projections": 2200000,
+  "Incentive": 18000,
+  "S1K": 65000,
+  "S2K": 38000,
+  "S3K": 26000,
+  "E1K": 50000,
+  "E2K": 33000,
+  "E3K": 21000,
+  "CreatedDate": {
+    "$date": "2024-01-29T10:30:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-29T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2ab2de84da40701fd5410"
+  },
+  "Sales manager 1": "Daniel Smith",
+  "Sales manager 2": "Olivia Johnson",
+  "Sales manager 3": "Ryan White",
+  "Sales projections": 1800000,
+  "Incentive": 12000,
+  "S1K": 55000,
+  "S2K": 32000,
+  "S3K": 22000,
+  "E1K": 43000,
+  "E2K": 27000,
+  "E3K": 17000,
+  "CreatedDate": {
+    "$date": "2024-01-29T11:00:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-29T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2ab2de84da40701fd5411"
+  },
+  "Sales manager 1": "Sophie Davis",
+  "Sales manager 2": "Jack Wilson",
+  "Sales manager 3": "Ava Brown",
+  "Sales projections": 2500000,
+  "Incentive": 20000,
+  "S1K": 70000,
+  "S2K": 40000,
+  "S3K": 28000,
+  "E1K": 55000,
+  "E2K": 35000,
+  "E3K": 23000,
+  "CreatedDate": {
+    "$date": "2024-01-29T11:30:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-29T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a2ab2de84da40701fd5412"
+  },
+  "Sales manager 1": "Luke Anderson",
+  "Sales manager 2": "Isabella Taylor",
+  "Sales manager 3": "Noah Hernandez",
+  "Sales projections": 2300000,
+  "Incentive": 16000,
+  "S1K": 68000,
+  "S2K": 37000,
+  "S3K": 25000,
+  "E1K": 48000,
+  "E2K": 31000,
+  "E3K": 20000,
+  "CreatedDate": {
+    "$date": "2024-01-29T12:00:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-29T12:00:00.000Z"
+  }
+}]
