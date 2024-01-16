@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "659b955aa4cc73988427b4ef"
+  },
+  "First Name": "Alex",
+  "Last Name": "Johnson",
+  "DOB": {
+    "$date": "1993-06-20T00:00:00.000Z"
+  },
+  "License No": "LMN123",
+  "Blood Group": "B-",
+  "Email ID": "alex.johnson@example.com",
+  "Mobile No": "5556667777",
+  "City": "Seattle",
+  "Gender": "Male",
+  "Country": "USA",
+  "Income": 85000,
+  "Industry": "Engineering",
+  "Qr Code": "QR303"
+},
+{
+  "_id": {
+    "$oid": "659b9d5da4cc73988427b4f8"
+  },
+  "First Name": "kane",
+  "Last Name": "william",
+  "DOB": {
+    "$date": "1993-06-20T00:00:00.000Z"
+  },
+  "License No": "LMN123",
+  "Blood Group": "B-",
+  "Email ID": "alex.johnson@example.com",
+  "Mobile No": "5556667777",
+  "City": "Seattle",
+  "Gender": "Male",
+  "Country": "USA",
+  "Income": 85000,
+  "Industry": "Engineering",
+  "Qr Code": "QR303"
+}]

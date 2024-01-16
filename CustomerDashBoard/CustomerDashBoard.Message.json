@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "65a23994e84da40701fd5371"
+  },
+  "Sender": "User1",
+  "Recipient": "User2",
+  "MessageContent": "Hello, how are you?",
+  "Timestamp": {
+    "$date": "2024-01-16T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a23994e84da40701fd5372"
+  },
+  "Sender": "User2",
+  "Recipient": "User1",
+  "MessageContent": "Hi there! I'm doing well, thanks.",
+  "Timestamp": {
+    "$date": "2024-01-16T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a23994e84da40701fd5373"
+  },
+  "Sender": "User1",
+  "Recipient": "User3",
+  "MessageContent": "Hey, any plans for the weekend?",
+  "Timestamp": {
+    "$date": "2024-01-16T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a23994e84da40701fd5374"
+  },
+  "Sender": "User3",
+  "Recipient": "User1",
+  "MessageContent": "Not sure yet. Maybe catch a movie?",
+  "Timestamp": {
+    "$date": "2024-01-16T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a23994e84da40701fd5375"
+  },
+  "Sender": "User2",
+  "Recipient": "User3",
+  "MessageContent": "Do you have any recommendations for a good restaurant?",
+  "Timestamp": {
+    "$date": "2024-01-16T12:00:00.000Z"
+  }
+}]

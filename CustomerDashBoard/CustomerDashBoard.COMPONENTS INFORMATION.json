@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "65a22a63e84da40701fd534c"
+  },
+  "S/n": "SN001",
+  "Hardware Version": "1.0",
+  "Software Version": "v1.0.0",
+  "CreatedDate": {
+    "$date": "2024-01-13T12:00:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-13T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a22a63e84da40701fd534d"
+  },
+  "S/n": "SN002",
+  "Hardware Version": "1.1",
+  "Software Version": "v1.1.0",
+  "CreatedDate": {
+    "$date": "2024-01-13T12:05:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-13T12:05:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a22a63e84da40701fd534e"
+  },
+  "S/n": "SN003",
+  "Hardware Version": "1.2",
+  "Software Version": "v1.2.0",
+  "CreatedDate": {
+    "$date": "2024-01-13T12:10:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-13T12:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a22a63e84da40701fd534f"
+  },
+  "S/n": "SN004",
+  "Hardware Version": "1.5",
+  "Software Version": "v1.5.0",
+  "CreatedDate": {
+    "$date": "2024-01-13T12:15:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-13T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a22a63e84da40701fd5350"
+  },
+  "S/n": "SN005",
+  "Hardware Version": "1.8",
+  "Software Version": "v1.8.0",
+  "CreatedDate": {
+    "$date": "2024-01-13T12:20:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-13T12:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a22a63e84da40701fd5351"
+  },
+  "S/n": "SN006",
+  "Hardware Version": "2.0",
+  "Software Version": "v2.0.0",
+  "CreatedDate": {
+    "$date": "2024-01-13T12:25:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-13T12:25:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a22a63e84da40701fd5352"
+  },
+  "S/n": "SN007",
+  "Hardware Version": "2.1",
+  "Software Version": "v2.1.0",
+  "CreatedDate": {
+    "$date": "2024-01-13T12:30:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-13T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a22a63e84da40701fd5353"
+  },
+  "S/n": "SN008",
+  "Hardware Version": "2.2",
+  "Software Version": "v2.2.0",
+  "CreatedDate": {
+    "$date": "2024-01-13T12:35:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-13T12:35:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a22a63e84da40701fd5354"
+  },
+  "S/n": "SN009",
+  "Hardware Version": "2.5",
+  "Software Version": "v2.5.0",
+  "CreatedDate": {
+    "$date": "2024-01-13T12:40:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-13T12:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a22a63e84da40701fd5355"
+  },
+  "S/n": "SN010",
+  "Hardware Version": "2.8",
+  "Software Version": "v2.8.0",
+  "CreatedDate": {
+    "$date": "2024-01-13T12:45:00.000Z"
+  },
+  "ModifiedDate": {
+    "$date": "2024-01-13T12:45:00.000Z"
+  }
+}]

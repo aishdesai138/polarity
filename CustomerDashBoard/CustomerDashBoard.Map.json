@@ -1,0 +1,272 @@
+[{
+  "_id": {
+    "$oid": "65a2370ee84da40701fd5369"
+  },
+  "Person Location": "Location 1",
+  "Vehicle Location": "Location 2",
+  "Favorite Location": "Location 3",
+  "Compass": "North",
+  "Traffic Condition": "Moderate",
+  "Poi Search": "Search 1",
+  "Poi Search History": [
+    "Search 2",
+    "Search 3"
+  ],
+  "Clear Poi Search History": true,
+  "Zoom In/zoom Out": "Zoom In",
+  "Rotate": "Clockwise",
+  "Location Selection In Map": "Selected",
+  "Poi Information": "Info 1",
+  "Repair Branch": "Branch 1",
+  "Charge Station": "Station 1",
+  "Day/night Mode": "Day",
+  "Navigate To The Vehicle": true,
+  "Route Searching": "Searching",
+  "Route Selection": "Selected",
+  "Route Searching History": [
+    "Search 4",
+    "Search 5"
+  ],
+  "Clear Route Searching History": false,
+  "Navigation Mode Selection": "Manual",
+  "Start Navigation": true,
+  "Exit Navigation": false
+},
+{
+  "_id": {
+    "$oid": "65a2370ee84da40701fd536a"
+  },
+  "Person Location": "Location",
+  "Vehicle Location": "Location",
+  "Favorite Location": "Location",
+  "Compass": "South",
+  "Traffic Condition": "Heavy",
+  "Poi Search": "Search 2",
+  "Poi Search History": [
+    "Search 1",
+    "Search 3"
+  ],
+  "Clear Poi Search History": false,
+  "Zoom In/zoom Out": "Zoom Out",
+  "Rotate": "Counter-Clockwise",
+  "Location Selection In Map": "Not Selected",
+  "Poi Information": "Info 2",
+  "Repair Branch": "Branch 2",
+  "Charge Station": "Station 2",
+  "Day/night Mode": "Night",
+  "Navigate To The Vehicle": false,
+  "Route Searching": "Not Searching",
+  "Route Selection": "Not Selected",
+  "Route Searching History": [
+    "Search 6",
+    "Search 7"
+  ],
+  "Clear Route Searching History": true,
+  "Navigation Mode Selection": "Automatic",
+  "Start Navigation": false,
+  "Exit Navigation": true
+},
+{
+  "_id": {
+    "$oid": "65a2370ee84da40701fd536b"
+  },
+  "Person Location": "Location 1",
+  "Vehicle Location": "Location 2",
+  "Favorite Location": "Location 3",
+  "Compass": "North",
+  "Traffic Condition": "Moderate",
+  "Poi Search": "Search 1",
+  "Poi Search History": [
+    "Search 2",
+    "Search 3"
+  ],
+  "Clear Poi Search History": true,
+  "Zoom In/zoom Out": "Zoom In",
+  "Rotate": "Clockwise",
+  "Location Selection In Map": "Selected",
+  "Poi Information": "Info 1",
+  "Repair Branch": "Branch 1",
+  "Charge Station": "Station 1",
+  "Day/night Mode": "Day",
+  "Navigate To The Vehicle": true,
+  "Route Searching": "Searching",
+  "Route Selection": "Selected",
+  "Route Searching History": [
+    "Search 4",
+    "Search 5"
+  ],
+  "Clear Route Searching History": false,
+  "Navigation Mode Selection": "Manual",
+  "Start Navigation": true,
+  "Exit Navigation": false
+},
+{
+  "_id": {
+    "$oid": "65a2370ee84da40701fd536c"
+  },
+  "Person Location": "Location 4",
+  "Vehicle Location": "Location 5",
+  "Favorite Location": "Location 6",
+  "Compass": "South",
+  "Traffic Condition": "Heavy",
+  "Poi Search": "Search 2",
+  "Poi Search History": [
+    "Search 1",
+    "Search 3"
+  ],
+  "Clear Poi Search History": false,
+  "Zoom In/zoom Out": "Zoom Out",
+  "Rotate": "Counter-Clockwise",
+  "Location Selection In Map": "Not Selected",
+  "Poi Information": "Info 2",
+  "Repair Branch": "Branch 2",
+  "Charge Station": "Station 2",
+  "Day/night Mode": "Night",
+  "Navigate To The Vehicle": false,
+  "Route Searching": "Not Searching",
+  "Route Selection": "Not Selected",
+  "Route Searching History": [
+    "Search 6",
+    "Search 7"
+  ],
+  "Clear Route Searching History": true,
+  "Navigation Mode Selection": "Automatic",
+  "Start Navigation": false,
+  "Exit Navigation": true
+},
+{
+  "_id": {
+    "$oid": "65a2370ee84da40701fd536d"
+  },
+  "Person Location": "Location 1",
+  "Vehicle Location": "Location 2",
+  "Favorite Location": "Location 3",
+  "Compass": "North",
+  "Traffic Condition": "Moderate",
+  "Poi Search": "Search 1",
+  "Poi Search History": [
+    "Search 2",
+    "Search 3"
+  ],
+  "Clear Poi Search History": true,
+  "Zoom In/zoom Out": "Zoom In",
+  "Rotate": "Clockwise",
+  "Location Selection In Map": "Selected",
+  "Poi Information": "Info 1",
+  "Repair Branch": "Branch 1",
+  "Charge Station": "Station 1",
+  "Day/night Mode": "Day",
+  "Navigate To The Vehicle": true,
+  "Route Searching": "Searching",
+  "Route Selection": "Selected",
+  "Route Searching History": [
+    "Search 4",
+    "Search 5"
+  ],
+  "Clear Route Searching History": false,
+  "Navigation Mode Selection": "Manual",
+  "Start Navigation": true,
+  "Exit Navigation": false
+},
+{
+  "_id": {
+    "$oid": "65a2370ee84da40701fd536e"
+  },
+  "Person Location": "pune ",
+  "Vehicle Location": "mumbai 5",
+  "Favorite Location": "pune ",
+  "Compass": "South",
+  "Traffic Condition": "Heavy",
+  "Poi Search": "Search 2",
+  "Poi Search History": [
+    "Search 1",
+    "Search 3"
+  ],
+  "Clear Poi Search History": false,
+  "Zoom In/zoom Out": "Zoom Out",
+  "Rotate": "Counter-Clockwise",
+  "Location Selection In Map": "Not Selected",
+  "Poi Information": "Info 2",
+  "Repair Branch": "Branch 2",
+  "Charge Station": "Station 2",
+  "Day/night Mode": "Night",
+  "Navigate To The Vehicle": false,
+  "Route Searching": "Not Searching",
+  "Route Selection": "Not Selected",
+  "Route Searching History": [
+    "Search 6",
+    "Search 7"
+  ],
+  "Clear Route Searching History": true,
+  "Navigation Mode Selection": "Automatic",
+  "Start Navigation": false,
+  "Exit Navigation": true
+},
+{
+  "_id": {
+    "$oid": "65a2370ee84da40701fd536f"
+  },
+  "Person Location": "pcmc",
+  "Vehicle Location": "Nashik",
+  "Favorite Location": "Thane",
+  "Compass": "North",
+  "Traffic Condition": "Moderate",
+  "Poi Search": "Search 1",
+  "Poi Search History": [
+    "Search 2",
+    "Search 3"
+  ],
+  "Clear Poi Search History": true,
+  "Zoom In/zoom Out": "Zoom In",
+  "Rotate": "Clockwise",
+  "Location Selection In Map": "Selected",
+  "Poi Information": "Info 1",
+  "Repair Branch": "Branch 1",
+  "Charge Station": "Station 1",
+  "Day/night Mode": "Day",
+  "Navigate To The Vehicle": true,
+  "Route Searching": "Searching",
+  "Route Selection": "Selected",
+  "Route Searching History": [
+    "Search 4",
+    "Search 5"
+  ],
+  "Clear Route Searching History": false,
+  "Navigation Mode Selection": "Manual",
+  "Start Navigation": true,
+  "Exit Navigation": false
+},
+{
+  "_id": {
+    "$oid": "65a2370ee84da40701fd5370"
+  },
+  "Person Location": "pune ",
+  "Vehicle Location": "mumbai 5",
+  "Favorite Location": "pune ",
+  "Compass": "South",
+  "Traffic Condition": "Heavy",
+  "Poi Search": "Search 2",
+  "Poi Search History": [
+    "Search 1",
+    "Search 3"
+  ],
+  "Clear Poi Search History": false,
+  "Zoom In/zoom Out": "Zoom Out",
+  "Rotate": "Counter-Clockwise",
+  "Location Selection In Map": "Not Selected",
+  "Poi Information": "Info 2",
+  "Repair Branch": "Branch 2",
+  "Charge Station": "Station 2",
+  "Day/night Mode": "Night",
+  "Navigate To The Vehicle": false,
+  "Route Searching": "Not Searching",
+  "Route Selection": "Not Selected",
+  "Route Searching History": [
+    "Search 6",
+    "Search 7"
+  ],
+  "Clear Route Searching History": true,
+  "Navigation Mode Selection": "Automatic",
+  "Start Navigation": false,
+  "Exit Navigation": true
+}]

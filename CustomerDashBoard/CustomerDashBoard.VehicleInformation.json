@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "659cda35a4cc73988427b4fb"
+  },
+  "VehicleModel": "Model1",
+  "VehicleNumber": "ABC123",
+  "VehicleColor": "Blue",
+  "VehicleNickname": "BlueCar",
+  "DateOfManufacture": {
+    "$date": "2022-01-01T00:00:00.000Z"
+  },
+  "VehiclePicture": "url/to/picture1.jpg",
+  "VehicleQrCode": "qrcode1",
+  "MotorSn": "Motor123",
+  "BatterySn": "Battery456",
+  "BmsSn": "BMS789",
+  "EcuSn": "ECU101",
+  "VcuSn": "VCU202",
+  "HmiSn": "HMI303",
+  "TBoxSn": "TBOX404",
+  "KBoxSn": "KBOX505"
+},
+{
+  "_id": {
+    "$oid": "659cda35a4cc73988427b4fc"
+  },
+  "VehicleModel": "Model2",
+  "VehicleNumber": "XYZ789",
+  "VehicleColor": "Red",
+  "VehicleNickname": "RedCar",
+  "DateOfManufacture": {
+    "$date": "2023-02-15T00:00:00.000Z"
+  },
+  "VehiclePicture": "url/to/picture2.jpg",
+  "VehicleQrCode": "qrcode2",
+  "MotorSn": "Motor456",
+  "BatterySn": "Battery789",
+  "BmsSn": "BMS101",
+  "EcuSn": "ECU202",
+  "VcuSn": "VCU303",
+  "HmiSn": "HMI404",
+  "TBoxSn": "TBOX505",
+  "KBoxSn": "KBOX606"
+}]

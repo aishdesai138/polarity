@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "659cd948a4cc73988427b4f9"
+  },
+  "MessageList": [
+    "Message1",
+    "Message2",
+    "Message3"
+  ],
+  "MessageDetails": "Details for Message",
+  "PushNotificationActive": true,
+  "VehicleWarehouse": "Warehouse1",
+  "VehicleList": [
+    "Vehicle1",
+    "Vehicle2"
+  ],
+  "VehicleNickname": "MyCar",
+  "AccountAndSafetySettings": {
+    "Setting1": "Value1",
+    "Setting2": "Value2"
+  },
+  "PhoneNumberChange": "1234567890",
+  "PasswordModification": "NewPassword",
+  "PasswordRecovery": "RecoveryEmail@example.com",
+  "ExitAccount": "Yes",
+  "EmergencyContact": {
+    "Name": "Emergency Contact",
+    "Relationship": "Family",
+    "PhoneNumber": "9876543210"
+  },
+  "PhoneNumber": "9876543210",
+  "Name": "John Doe",
+  "Relationship": "Friend",
+  "MessageTemplate": "Hello, {Name}!"
+},
+{
+  "_id": {
+    "$oid": "659cd948a4cc73988427b4fa"
+  },
+  "MessageList": [
+    "Message4",
+    "Message5",
+    "Message6"
+  ],
+  "MessageDetails": "Details for Message",
+  "PushNotificationActive": false,
+  "VehicleWarehouse": "Warehouse2",
+  "VehicleList": [
+    "Vehicle3",
+    "Vehicle4"
+  ],
+  "VehicleNickname": "MyCar2",
+  "AccountAndSafetySettings": {
+    "Setting1": "Value3",
+    "Setting2": "Value4"
+  },
+  "PhoneNumberChange": "5555555555",
+  "PasswordModification": "AnotherPassword",
+  "PasswordRecovery": "RecoveryEmail2@example.com",
+  "ExitAccount": "No",
+  "EmergencyContact": {
+    "Name": "Emergency Contact 2",
+    "Relationship": "Spouse",
+    "PhoneNumber": "1231231234"
+  },
+  "PhoneNumber": "1231231234",
+  "Name": "Jane Doe",
+  "Relationship": "Family",
+  "MessageTemplate": "Hi, {Name}!"
+}]
